@@ -1,0 +1,96 @@
+{
+    "project_name": "jenkins",
+    "initilize_time": "duration of config data init",
+    "created_time": "2018-12-07 10:33:57.076519",
+    "parent_dom": "www.jenkins.info",
+    "nodes": [
+        {
+            "appname": "jenkins",
+            "domainname": "None",
+            "ipaddr": "None",
+            "keys_bundle": [
+                [
+                    {
+                        "mykey": "hello",
+                        "myvalue": "world",
+                        "created_time": "2018-12-07 10:34:04.456884",
+                        "modified_time": "2018-12-07 10:34:04.456884"
+                    },
+                    {
+                        "mykey": "hello1",
+                        "myvalue": "world1",
+                        "created_time": "2018-12-07 10:34:04.456884",
+                        "modified_time": "2018-12-07 10:34:04.456884"
+                    }
+                ]
+            ]
+        },
+        {
+            "appname": "jenkins",
+            "domainname": "None",
+            "ipaddr": "None",
+            "user": [
+                [
+                    "ser=hello"
+                ]
+            ],
+            "keys_bundle": [
+                [
+                    {
+                        "mykey": "mykeys1",
+                        "myvalue": "myvalue1",
+                        "created_time": "2018-12-07 11:02:18.450163",
+                        "modified_time": "2018-12-07 11:02:18.450163"
+                    },
+                    {
+                        "mykey": "mykeys2",
+                        "myvalue": "myvalue2",
+                        "created_time": "2018-12-07 11:02:18.450163",
+                        "modified_time": "2018-12-07 11:02:18.450163"
+                    }
+                ]
+            ]
+        },
+        {
+            "appname": "jenkins",
+            "domainname": "None",
+            "ipaddr": "None",
+            "user": [
+                [
+                    "hello"
+                ]
+            ],
+            "keys_bundle": [
+                [
+                    {
+                        "mykey": "mykeuy2",
+                        "myvalue": "myvalue2",
+                        "created_time": "2018-12-07 11:03:20.880476",
+                        "modified_time": "2018-12-07 11:03:20.880476"
+                    }
+                ]
+            ]
+        },
+        {
+            "appname": "jenkins",
+            "domainname": "None",
+            "ipaddr": "None",
+            "user": [
+                [
+                    "hello",
+                    "world"
+                ]
+            ],
+            "keys_bundle": [
+                [
+                    {
+                        "mykey": "mykeys2",
+                        "myvalue": "myvalue2",
+                        "created_time": "2018-12-07 11:03:45.738230",
+                        "modified_time": "2018-12-07 11:03:45.738230"
+                    }
+                ]
+            ]
+        }
+    ]
+}
